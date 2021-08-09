@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SudokuEZ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SudokuEZ_jar</output-path>
+    <root id="archive" name="SudokuEZ.jar">
+      <element id="module-output" name="SudokuEZ" />
+    </root>
+  </artifact>
+</component>
